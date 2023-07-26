@@ -1,14 +1,14 @@
 # Diet-Cost-Numerical-Optimization
 Diet Plan Cost Optimization using Octave Programming<br />
 
-##1 Introduction<br />
+## 1 Introduction<br />
 Food is one of humanity's essential but maintaining a healthy diet is a problem.
 
 Communities that lack access to inexpensive nutrient-rich food can benefit from practical solutions offered through diet optimization.​
 
 It has prompt researchers to use ML techniques to help optimize diets and lessen the cost of nutritious food.
 
-##2 Problem Statement<br />
+## 2 Problem Statement<br />
 Maintaining a healthy diet is challenging for many individuals due to budget.
 Cost of healthy food items can be expensive which is why people tend to go for cheaper but less nutritious alternatives.
 Machine learning algorithms and numerical optimization can help in optimizing diets: <br />
