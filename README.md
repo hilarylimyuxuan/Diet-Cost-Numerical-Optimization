@@ -21,7 +21,7 @@ Machine learning algorithms and numerical optimization can help in optimizing di
 - To build a model that finds optimal diets that meet nutritional requirements with the minimum cost.<br />
   
 ## 4 Algorithms  & Tools Applied
-###Linear programming<br />
+### Linear programming
 Linear programming optimizes complex systems and finds cost-effective solutions.<br />
 It effectively creates diet plans that meet nutritional requirements while minimizing costs.<br />
 
