@@ -1,7 +1,7 @@
 # Diet-Cost-Numerical-Optimization
 Diet Plan Cost Optimization using Octave Programming<br />
 
-## 1 Introduction<br />
+## 1 Introduction
 Food is one of humanity's essential but maintaining a healthy diet is a problem.
 
 Communities that lack access to inexpensive nutrient-rich food can benefit from practical solutions offered through diet optimization.​
